@@ -2,7 +2,6 @@
 #include <string>
 #include "Alumno.h"
 #include <vector>
-
 using namespace std;
 
 Alumno::Alumno(string nombre, int asistencia, int con_audio) {
