@@ -1,3 +1,4 @@
 ﻿  Source.cpp
 C:\Users\JOSE VILLEDA\Documents\UNITEC\2022 Q1\PROGRAMACION III\ProyectoAsistencia\Output.h(16,58): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\JOSE VILLEDA\Documents\UNITEC\2022 Q1\PROGRAMACION III\ProyectoAsistencia\Source.cpp(62,51): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
   ProyectoAsistencia.vcxproj -> C:\Users\JOSE VILLEDA\Documents\UNITEC\2022 Q1\PROGRAMACION III\ProyectoAsistencia\x64\Debug\ProyectoAsistencia.exe
